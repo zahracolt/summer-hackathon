@@ -91,6 +91,6 @@ And yes, it still works. But as mentioned earlier, keep things simple and short.
 Structure your selling point about how making use of the Solana gateway would help the merchants. No one really wants to know what your product can do if its features won’t eventually be of help to them. 
 
 
-#Conclusion
+# Conclusion
 
 Many make the mistake that onboarding ends when a merchant signs up for a paid subscription of the product. That is somewhat true, but ignoring everything after that is a disaster. Even after signing up, onboarding still continues and you owe them good treatment because a Customer is king, right?
